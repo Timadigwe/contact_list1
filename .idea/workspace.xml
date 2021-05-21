@@ -16,7 +16,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bfde6283-b0d5-4949-9ecd-0c10a551eb1f" name="Default Changelist" comment="First commit" />
+    <list default="true" id="bfde6283-b0d5-4949-9ecd-0c10a551eb1f" name="Default Changelist" comment="first commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -181,7 +183,14 @@
       <option name="project" value="LOCAL" />
       <updated>1621558296255</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="first commit">
+      <created>1621558828509</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1621558828509</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -196,9 +205,12 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
     <MESSAGE value="Firstcommit" />
     <MESSAGE value="First commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="First commit" />
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="275" y="0" width="816" height="728" key="#Intentions" timestamp="1621460651791">
@@ -253,14 +265,18 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="263" y="68" key="AndroidThemeDialog/0.0.1366.728@0.0.1366.728" timestamp="1621200293036" />
-    <state x="463" y="105" key="FileChooserDialogImpl" timestamp="1621556720375">
+    <state x="463" y="105" key="FileChooserDialogImpl" timestamp="1621559029969">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="105" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1621556720375" />
+    <state x="463" y="105" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1621559029969" />
     <state x="559" y="261" key="Github.ShareDialog" timestamp="1621556463359">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="559" y="261" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1621556463359" />
+    <state x="444" y="84" key="RollbackChangesDialog" timestamp="1621559121393">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="444" y="84" key="RollbackChangesDialog/0.0.1366.728@0.0.1366.728" timestamp="1621559121393" />
     <state x="184" y="8" key="SettingsEditor" timestamp="1621556798035">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
