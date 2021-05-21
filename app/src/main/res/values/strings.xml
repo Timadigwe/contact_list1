@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">contact_list</string>
+    <string name="nameIL">name</string>
+    <string name="phone_number">phone number</string>
+    <string name="categoryName">categoryName</string>
+    <string name="Name" />
+    <string name="name">Name</string>
+    <string name="phone_num">phone_number</string>
+</resources>
